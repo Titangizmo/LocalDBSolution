@@ -6,7 +6,7 @@ namespace LocalDB
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
